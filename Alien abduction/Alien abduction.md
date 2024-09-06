@@ -16,20 +16,20 @@ full url of the article
 
 Let's Google "UFO Broomfield CO".
 
-!\[\[Pasted image 20240906102716.png\]\]
+![](https://github.com/sobekkkk/Hacktoria-WriteUps/blob/master/Alien%20abduction/images/Pasted%20image%2020240906102716.png)
 
 The second link seems interesting. We come to [https://nuforc.org/subndx/?id=lCO](https://nuforc.org/subndx/?id=lCO) and we know that the city is Broomfield and the date is near April 2nd, 3rd, and 9th, 2023. With this information, we can filter all the UFO reports.
 
-!\[\[Pasted image 20240906102404.png\]\]
+![](https://github.com/sobekkkk/Hacktoria-WriteUps/blob/master/Alien%20abduction/images/Pasted%20image%2020240906102404.png)
 
 The third link seems interesting.
 
-!\[\[Pasted image 20240906111202.png\]\]
+![](https://github.com/sobekkkk/Hacktoria-WriteUps/blob/master/Alien%20abduction/images/Pasted%20image%2020240906111202.png)
 
-!\[\[Pasted image 20240906111230.png\]\]
+![](https://github.com/sobekkkk/Hacktoria-WriteUps/blob/master/Alien%20abduction/images/Pasted%20image%2020240906111230.png)
 
 <https://nuforc.org/sighting/?id=175200>
 
 this is our answer
 
-!\[\[Badge Alien Abduction.png\]\]
+![](https://github.com/sobekkkk/Hacktoria-WriteUps/blob/master/Alien%20abduction/images/Badge%20Alien%20Abduction.png)
